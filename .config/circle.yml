@@ -1,0 +1,4 @@
+##Custom notifications
+notify:
+webhooks:
+-url : https://outlook.office.com/webhook/09d73709-62a7-4ea8-ba44-013d41a9454c@07b6e636-b9ba-457b-aaab-4e61bd385c65/CircleCI/2b43bc8a80c6417d8c590c0f66f7372f/cf2042b0-daf9-4aa3-899e-5019edf26dfe
